@@ -8,3 +8,4 @@ Un piatto semplice e veloce adatto a chi non ha voglia di perdere tempo a cucina
 * 2 spicci d'aglio
 * del peperoncino quanto basta
 * 3 cucchiai d'olio extravergine d'oliva
+* prezzemolo (ingrediente segreto)
