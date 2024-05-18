@@ -2,3 +2,6 @@
 
 * Spaghetti Aglio Olio e Peperoncino
 * Risotto ai funghi
+* Pasta alla Carbonara
+* Risotto ai funghi
+* Pasta alla Carbonara
