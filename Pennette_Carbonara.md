@@ -9,3 +9,4 @@ Ingredienti per la preparazine della pasta alla carbonara.
 * guanciale
 * pepe
 * pecorino romano
+* sale q.b.
