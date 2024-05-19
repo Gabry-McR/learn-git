@@ -5,3 +5,4 @@
 * Pasta alla Carbonara
 * Risotto ai funghi
 * Pasta alla Carbonara
+* Minestrone alle verdure
