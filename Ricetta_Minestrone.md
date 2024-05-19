@@ -7,3 +7,6 @@ Molto buono nelle giornate invernali
 * cipolle
 * patate
 * carote
+* zucchine
+* peperoni
+* fagioli
