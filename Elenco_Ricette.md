@@ -6,3 +6,5 @@
 * Risotto ai funghi
 * Pasta alla Carbonara
 * Minestrone alle verdure
+* Samlmone al cartoccio
+
