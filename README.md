@@ -1,2 +1,8 @@
 # Tutoria Git
-Aggiunto una riga
+
+## Autore
+* Manuel Zavatta
+
+## Collaboratori
+* Stacy Hammer
+
