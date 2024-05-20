@@ -1,0 +1,12 @@
+# file da ignorare
+idee.txt
+
+# ignora i file che terminano con 'piatti' con estensione 'txt'
+*piatti.txt
+
+# ignora la directory
+idee/*
+
+# questa è un'eccezione
+!idee/istruzioni.md
+
